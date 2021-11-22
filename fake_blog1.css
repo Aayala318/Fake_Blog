@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    font-size: 80px;
+}
+p{
+    font-style: oblique;
+    font-size: 20px;
+}
+table{
+    font-size: 18px;
+}
+img{
+    max-width: 500px;
+    max-height: 500px;
+}
+body{
+    background-color: rgb(184, 184, 184);
+}
